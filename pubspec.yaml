@@ -11,8 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  image_crop: ^0.4.0
-  preload_page_view: ^0.1.6
+  image_crop: ^0.4.1
+  preload_page_view: ^0.2.0
   scroll_to_index: ^2.1.1
 
 dev_dependencies:
@@ -21,9 +21,7 @@ dev_dependencies:
   flutter_lints: ^1.0.0
 
 flutter:
-
   uses-material-design: true
-
 #  fonts:
 #    - family: Bandar
 #      fonts:
